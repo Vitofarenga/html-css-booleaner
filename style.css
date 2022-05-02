@@ -29,4 +29,108 @@ h1{
     color: rgba(15, 107, 147, 0.882);
 }
 /* foto-e-descrizione */
+#tim1{
+    width: 700px;
+}
+#tim2{
+    width: 600px;
+}
+#lorem{
+    font-size: 20px;
+}
+#importante{
+    background-color: yellow;
+}
+ul{
+    font-size: 20px;
+    padding-left: 20px;
+}
+/* tabella */
+#rl{
+    display: inline-block;
+    
+    width: 20%;
+}
+#rc{
+    display: inline-block;
+    
+    width: 20%;
+    
+}
+#rr{
+    display: inline-block;
+    
+    width: 58%;
+    
+}
+
+#row{
+    font-size: 25px ;
+    background-color: rgba(15, 107, 147, 0.882);
+    color: white;
+    
+}
+.row2
+{
+    font-size: 20px;
+    background-color: rgba(114, 170, 194, 0.882);
+    height: 120;
+    
+}
+
+.rol{
+    display: inline-block;
+    position: relative;
+    top: -50px;
+    
+    width: 20%;
+}
+.roc{
+    display: inline-block;
+    position: relative;
+    top: -50px;
+    width: 20%;
+}
+.ror{
+    display: inline-block;
+    
+    width: 58%;
+}
+#rowbianco{
+    background-color: white;
+    font-size: 20px;
+    
+    height: 120;
+}
+/* footer */
+#foot{
+    font-size: 20px;
+    color: rgb(187, 190, 194);
+    margin-top: 30px;
+    margin-bottom: 0px;
+
+}
+
+#imgs1{
+    margin-bottom: 30px;
+    background-image: url(img/graph.jpg);
+    height: 207px;
+    width: 311px;
+    font-size: 40px;
+    color: white;
+    margin-top: 0px;
+}
+#imgs2{
+    margin-bottom: 30px;
+    background-image: url(img/monitor.jpg);
+    height: 208px;
+    width: 311px;
+    font-size: 40px;
+    color: white;
+}
+
+
+
+
+
 
